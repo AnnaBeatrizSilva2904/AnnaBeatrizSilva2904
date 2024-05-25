@@ -1,3 +1,8 @@
+## Olá! Seja bem-vindo ao meu GitHub
+
+- Atualmente estou estudando as linguagens C# e JavaScript
+- Aprendendo a desenvolver sites para a Web, criação de aplicativos e como criar banco de dados
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaBeatrizSilva2904&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaBeatrizSilva2904&layout=compact&show_icons=true&theme=radical"/>    
