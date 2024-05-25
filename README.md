@@ -1,7 +1,4 @@
-<div align="right">
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaBeatrizSilva2904&show_icons=true&theme=radical)
-</div>
-
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaBeatrizSilva2904&layout=compact&show_icons=true&theme=radical)](https://github.com/AnnaBeatrizSilva2904/github-readme-stats)
 
 <div style="display: inline_block"><br>
