@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Olá%F0%9F%91%8B+Seja+bem-vindo+ao+meu+GitHub&font=Teko&size=40&center=true&width=550&height=70&text-color=radical"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Olá%F0%9F%91%8B+Seja+bem-vindo+ao+meu+GitHub&font=Teko&size=40&center=true&width=550&height=70&text-color=white"/></a>
 </p>
 
 - Atualmente estou estudando as linguagens C# e JavaScript
