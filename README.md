@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7098C&random=false&width=435&size=40&width=550&height=70&lines=Olá%F0%9F%91%8B+Seja+bem-vindo+ao+meu+GitHub"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7098C&random=false&width=435&size=40&height=70&lines=Olá%F0%9F%91%8B+Seja+bem-vindo+ao+meu+GitHub"/></a>
 </p>
 
 - Atualmente estou estudando as linguagens C# e JavaScript
