@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7098C&random=false&width=435&lines=Olá+%F0%9F%91%8B+Seja+bem-vindo+ao+meu+GitHub"/></a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 </p>
 
 - Atualmente estou estudando as linguagens C# e JavaScript
