@@ -18,5 +18,10 @@
   <img align="center" alt="Anna-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnnaBeatrizSilva2904/AnnaBeatrizSilva2904/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnnaBeatrizSilva2904/AnnaBeatrizSilva2904/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AnnaBeatrizSilva2904/AnnaBeatrizSilva2904/output/snake.svg">
+</picture>
 
 
